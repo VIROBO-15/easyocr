@@ -1,1 +1,1 @@
-Name Harsha Kumari AGE 34 DATE 03/03/2000 Blood Pressure 90/140 Weight 72 History Heart Disease Asthama Diabetes Current High blood pressure Breathing problem Medicine Betaloc 100mg cinetidine 50mg Roxid 500mg
+MEDICAL CENTER 824 Street Kolkata 700159 Name Harsha Kumari AGE 34 DATE 03/03/2000 Blood Pressure 90/140 Weight 72 History Heart Disease Asthama Diabetes Current High blood pressure Breathing problem Medicine Betaloc 100mg cinetidine 50mg Roxid 500mg
